@@ -1,6 +1,6 @@
 # 🚍 Smart Transit Management System (ServiceNow)
 
-![ServiceNow Logo](documents/screenshots/ServiceNow_Logo.jpg)
+![ServiceNow Logo](Screenshots/ServiceNow_Logo.jpg)
 
 ---
 
@@ -72,8 +72,8 @@ STMS offers several service catalog items to enhance passenger experience:
 ## 📖 Knowledge Base
 A structured knowledge base is available for support:  
 - **Admin & Operations:** Guidelines on route setup, driver management, and reporting  
-- **Driver Support:** Instructions for viewing assignments via the mobile app  
-- **Passenger Support:** Guides for booking, cancelling tickets, and requesting refunds  
+- **Driver Support:** Instructions for viewing assignments  
+- **Passenger Support:** Guides for booking tickets  
 
 ---
 
@@ -88,3 +88,19 @@ To deploy the system in your ServiceNow instance:
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 👥 Team Members
+This project was developed by:
+
+- **Monalisa Sahu**  
+- **Zeeth K**  
+- **Gangothri Madduru**  
+- **Ganesh Nanavath**  
+- **Sivadharane S**  
+- **Kothakonda Navadeep**  
+- **Lakshitha RE**  
+- **Anisha G**  
+- **Mounika Jaya Veerapalli**
+
