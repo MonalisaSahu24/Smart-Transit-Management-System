@@ -89,6 +89,25 @@ To deploy the system in your ServiceNow instance:
 
 ## 📂 Repository Structure
 
+**Smart-Transit-Management-System/**
+
+- **Documents/** # Project documents and reports
+  - Smart_Transit_Management_System_Final_Report.pdf
+  - Smart_Transit_Management_System_PPT.pptx
+
+- **Screenshots/** # Screenshots and images for dashboards, tables, KB, etc.
+  - Bus Management Dashboard.png
+  - Driver Management KB.png
+  - Driver Table.png
+  - Feedback Dashboard.png
+  - Knowledge_Base.png
+  - ServiceNow_Logo.jpg
+  - UI_page.png
+
+- `update_set.xml` # ServiceNow Update Set for deployment
+
+- `README.md` # Project overview and instructions
+
 ---
 
 ## 👥 Team Members
@@ -103,4 +122,3 @@ This project was developed by:
 - **Lakshitha RE**  
 - **Anisha G**  
 - **Mounika Jaya Veerapalli**
-
