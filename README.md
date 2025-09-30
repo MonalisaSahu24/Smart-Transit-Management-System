@@ -76,6 +76,21 @@ A structured knowledge base is available for support:
 - **Passenger Support:** Guides for booking tickets  
 
 ---
+## Screenshots
+
+### 1. Bus Management Dashboard
+![Bus Management Dashboard](Screenshots/Bus_Management_Dashboard.png)
+
+### 2. Driver Management Knowledge Base
+![Driver Management KB](Screenshots/Driver_Management_KB.png)
+
+### 3. Driver Table
+![Driver Table](Screenshots/Driver_Table.png)
+
+### 4. Feedback Dashboard
+![Feedback Dashboard](Screenshots/Feedback_Dashboard.png)
+
+---
 
 ## 🚀 Deployment Instructions
 To deploy the system in your ServiceNow instance:  
